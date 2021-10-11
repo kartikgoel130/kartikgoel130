@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kartik Goel
 - 👀 I’m interested in working on Software that can make life easier.
 - 🌱 I’m currently Data Structure and Algorithm with Full Stack Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something that challenges my skills.
 - 📫 Reach me @kartikgoel130@gmail.com
 
 <!---
